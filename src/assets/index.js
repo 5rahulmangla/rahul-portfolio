@@ -14,6 +14,7 @@ import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
 import prototyping from './icons/prototyping.png';
 import github from './icons/github.png';
+import react from './icons/react.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
 import downloadHover from './icons/downloadHover.png';
@@ -32,13 +33,19 @@ import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
+import netlify from './tech/netlify.png';
+import springboot from './tech/springboot.png';
+import database from './tech/database.png';
 import redux from './tech/redux.png';
 import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
 import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
-
+import java from './tech/javablack.png';
+import bootstrap from './tech/bootstrap.png';
+import microservices from './tech/microservices.png';
+import hibernate from './tech/hibernate.png';
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
@@ -90,6 +97,13 @@ export {
   postgresql,
   rubyrails,
   reactjs,
+  netlify,
+  microservices,
+  hibernate,
+  bootstrap,
+  database,
+  springboot,
+  java,
   redux,
   tailwind,
   typescript,
