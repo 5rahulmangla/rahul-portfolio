@@ -9,7 +9,6 @@ import { experiences } from '../constants';
 import { SectionWrapper } from '../hoc';
 import { download, downloadHover, resume } from '../assets';
 import { textVariant } from '../utils/motion';
-import Skills from './Skills';
 
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
@@ -47,7 +46,7 @@ const ExperienceCard = ({ experience }) => (
         className="text-gray-600 text-[22px] font-semibold font-overcameBold tracking-[1px]"
         style={{ margin: 0 }}>
         {experience.company_name}
-        
+
       </p>
 
       <p
