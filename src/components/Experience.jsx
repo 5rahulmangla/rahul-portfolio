@@ -38,6 +38,7 @@ const ExperienceCard = ({ experience }) => (
         />
       </div>
     }>
+      
     <div>
       <h3 className="text-jetLight text-[24px] font-bold font-beckman tracking-[2px]">
         {experience.title}
