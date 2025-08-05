@@ -7,7 +7,8 @@ import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 import rahulLogo from './logo/rahul-logo.png';
 
-import shaq from './personal/shaq.png';
+import shaq from './personal/developerXNew.png';
+import testv from './personal/dev1.mp4';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -72,6 +73,7 @@ export {
   logotext,
   rahulLogo,
   shaq,
+  testv,
   backend,
   ux,
   frontend,
