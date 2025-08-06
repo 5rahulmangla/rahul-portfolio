@@ -4,21 +4,22 @@ import { Code2, Palette, Database, GitBranch, Shield, CreditCard, Layers, Globe,
 import { reactjs,git,html,docker, tailwind, netlify, database,springboot, java, css, javascript, bootstrap, github, microservices, hibernate, nodejs } from '../assets'
 
 const skills = [
-  { name: "HTML5", icon: html, color: "bg-black-100 text-orange-600 border-orange-200" },
-  { name: "CSS3", icon: css, color: "bg-black-100 text-blue-600 border-blue-200" },
-  { name: "JAVASCRIPT", icon: javascript, color: "bg-black-100 text-yellow-600 border-yellow-200" },
-  { name: "BOOTSTRAP", icon: bootstrap, color: "bg-purple-100 text-purple-600 border-purple-200" },
-  { name: "REACT JS", icon: reactjs, color: "bg-black-100 text-cyan-600 border-cyan-200" },
-  { name: "GIT(HUB)", icon: github, color: "bg-black-100 text-gray-600 border-gray-200" },
   { name: "JAVA", icon: java, color: "bg-white-100 text-violet-600 border-violet-200" },
   { name: "SPRINGBOOT", icon: springboot, color: "bg-black-100 text-amber-600 border-amber-200" },
-  { name: "MICROSERVICES", icon: microservices, color: "bg-indigo-100 text-indigo-600 border-indigo-200" },
-  { name: "HIBERNATE", icon: hibernate, color: "bg-green-100 text-green-600 border-green-200" },
-  { name: "NODE.JS", icon: nodejs, color: "bg-black-100 text-emerald-600 border-emerald-200" },
+  { name: "MICROSERVICES", icon: microservices, color: "bg-black-100 text-indigo-600 border-indigo-200" },
+  { name: "HIBERNATE", icon: hibernate, color: "bg-black-100 text-green-600 border-green-200" },
   { name: "ORACLE", icon: database, color: "bg-black-100 text-green-700 border-green-200" },
-  { name: "NETLIFY", icon: netlify, color: "bg-black-100 text-green-700 border-green-200" },
+  { name: "REACT JS", icon: reactjs, color: "bg-black-100 text-cyan-600 border-cyan-200" },
+  { name: "GIT(HUB)", icon: github, color: "bg-black-100 text-gray-600 border-gray-200" },
   { name: "DOCKER", icon: docker, color: "bg-black-100 text-green-700 border-green-200" },
+  { name: "HTML5", icon: html, color: "bg-black-100 text-orange-600 border-orange-200" },
+  { name: "NETLIFY", icon: netlify, color: "bg-black-100 text-green-700 border-green-200" },
   { name: "TAILWIND", icon: tailwind, color: "bg-black-100 text-green-700 border-green-200" },
+  { name: "CSS3", icon: css, color: "bg-black-100 text-blue-600 border-blue-200" },
+  { name: "JAVASCRIPT", icon: javascript, color: "bg-black-100 text-yellow-600 border-yellow-200" },
+  { name: "BOOTSTRAP", icon: bootstrap, color: "bg-black-100 text-purple-600 border-purple-200" },
+  { name: "NODE.JS", icon: nodejs, color: "bg-black-100 text-emerald-600 border-emerald-200" },
+
 ]
 
 const containerVariants = {
@@ -74,8 +75,8 @@ const Skills = () => {
       >
         <h2 className="text-3xl md:text-4xl font-bold text-white-900 mb-4">Technical Skills</h2>
         <p className="text-white-600 text-lg max-w-2xl mx-auto">
-          I specialize in modern web technologies and provide different services like development, consulting, and
-          technical solutions to people who need these services.
+          I'm a Full Stack Developer passionate about building scalable web applications using Java, Spring Boot, Hibernate, and React JS. 
+          I love crafting robust backend systems and dynamic, user-friendly frontends that deliver seamless digital experiences.
         </p>
       </motion.div>
 

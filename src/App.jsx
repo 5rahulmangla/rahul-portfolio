@@ -9,6 +9,7 @@ import {
   Projects,
 } from './components';
 import Skills from './components/Skills';
+import AnimatedCounter from './components/AnimatedCounter';
 
 const App = () => {
   return (
@@ -27,7 +28,8 @@ const App = () => {
         <div className="bg-tech bg-cover bg-center bg-no-repeat pb-10">
           <Tech />
         </div>
-
+        
+        <AnimatedCounter/>
         <Projects />
 
         <div

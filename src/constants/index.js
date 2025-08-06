@@ -178,6 +178,8 @@ const experiences = [
   },
 ];
 
+
+
 const projects = [
   {
     id: 'project-1',
@@ -293,4 +295,11 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+const counterItems = [
+  { value: 10, suffix: "+", label: "Clients served" },
+  { value: 14, suffix: "+", label: "Projects completed" },
+  { value: 100, suffix: "%", label: "API Coverage" },
+  { value: 100, suffix: "+", label: "Bugs Resolved" },
+];
+
+export { services, technologies, experiences, projects, counterItems ,  };
