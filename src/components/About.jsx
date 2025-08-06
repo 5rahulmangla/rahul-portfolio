@@ -37,12 +37,12 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        Tech Lead at Wipro Limited, with over 10+ years of experience in software development and project management. 
+        I have a strong background in full-stack development, specializing in Java, Spring Boot,Microservices,Hiberante and React. 
+        My expertise includes leading cross-functional teams, driving technical excellence, 
+        and delivering high-quality software solutions. I am passionate about leveraging technology 
+        to solve complex problems and enhance user experiences. I thrive in dynamic environments and 
+        am committed to continuous learning and professional growth.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
