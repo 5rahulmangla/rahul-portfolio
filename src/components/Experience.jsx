@@ -110,7 +110,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                 '/RahulManglaFullStackDeveloper.docx', 
+                 '/RahulManglaFullStackDev.docx', 
                   '_blank'
                 )
               }
